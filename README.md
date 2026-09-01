@@ -113,12 +113,6 @@ A media downloader project designed for multiple platforms.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arterouss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=F472B6&text_color=E5E7EB&ring_color=C084FC" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arterouss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" width="42%">
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=Arterouss&theme=dark&hide_border=true&background=0D1117&ring=C084FC&fire=F472B6&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF" width="75%">
 
 </div>
