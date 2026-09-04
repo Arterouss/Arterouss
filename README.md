@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **Beyy**.
+Hi! I'm **BayKun**.
 
 I'm an Informatics student who enjoys building
 web applications, experimenting with AI,
@@ -38,7 +38,7 @@ I'm currently exploring:
 
 <img src="./assets/Char.jpg" width="280">
 
-### 「YuuBey」
+### 「BayKun」
 
 | Attribute | Status |
 |---|---|
