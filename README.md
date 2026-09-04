@@ -75,7 +75,7 @@ I'm currently exploring:
 </a>
 
 <a href="#">
-<img src="./assets/5.pngg" width="31%" alt="Project Builder">
+<img src="./assets/5.png" width="31%" alt="Project Builder">
 </a>
 
 </div>
