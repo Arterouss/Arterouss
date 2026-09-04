@@ -54,12 +54,31 @@ I'm currently exploring:
 
 ## 🏆 ACHIEVEMENTS
 
-| Achievement | Description |
-|---|---|
-| 🌸 Code Explorer | Exploring the world of programming |
-| 🤖 AI Apprentice | Exploring Artificial Intelligence |
-| 🌐 Web Creator | Building web applications |
-| 🎮 Game Explorer | Gaming & digital content |
+<div align="center">
+
+<a href="#">
+<img src="./assets/1.png" width="31%" alt="Code Explorer">
+</a>
+
+<a href="#">
+<img src="./assets/2.png" width="31%" alt="AI Apprentice">
+</a>
+
+<a href="#">
+<img src="./assets/3.png" width="31%" alt="Bug Hunter">
+</a>
+
+<br><br>
+
+<a href="#">
+<img src="./assets/4.png" width="31%" alt="Web Creator">
+</a>
+
+<a href="#">
+<img src="./assets/5.pngg" width="31%" alt="Project Builder">
+</a>
+
+</div>
 
 ---
 
